@@ -1,6 +1,6 @@
 .bg-jumb-main {
-    background: url('jumbo.jpg') no-repeat center center;
-   
+    background: url('Sans titre.png') no-repeat center center;
+    /*background-size: 100vw 25vh;*/
 }
 
 .bg-jumb-inter {
@@ -30,4 +30,10 @@ body {
 }
 .bg-main {
     background: url('dev.jpg') no-repeat center center;
+}
+.btn{
+    color:white;
+}
+.btn:hover{
+    color:white;
 }
