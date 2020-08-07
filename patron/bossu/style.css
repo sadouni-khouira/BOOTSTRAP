@@ -1,0 +1,15 @@
+h1{
+    font-family:serif;
+}
+.body{
+    margin-top: 100px;
+
+}
+.under {
+    text-decoration: underline;
+}
+.bg-main {
+    background: url('dev.jpg') no-repeat ;
+    width:100vw;
+    height:100vh;
+}
